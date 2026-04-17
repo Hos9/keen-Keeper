@@ -119,7 +119,7 @@ const DetailPage = () => {
             </div>
           </div>
         </div>
-
+        {/* Details Page */}
         <div className="my-0 md:my-10 row-span-5 md:row-span-6 lg:col-span-8 space-y-6 flex flex-col h-full">
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4 md:gap-6">
             <div className="px-5 py-7 shadow bg-white rounded-md text-center">
