@@ -5,7 +5,6 @@ const ErrorPage = () => {
   return (
     <div className="min-h-screen bg-slate-950 flex items-center justify-center px-6 py-24 sm:py-32 lg:px-8">
       <div className="text-center relative">
-        {/* Decorative Background Element */}
         <p className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-[15rem] font-black text-white/3 select-none pointer-events-none">
           404
         </p>
